@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 e12dbdbb1c352689da426b098533cbf79599c8ec Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758891798 +0400
+e12dbdbb1c352689da426b098533cbf79599c8ec 4fcce766ad4db0307d3d1729971feedaab79e90c Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758891798 +0400	commit: Initial commit
+4fcce766ad4db0307d3d1729971feedaab79e90c 49b7a43c143604bf8c8cba3d108725e197ce789e Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758891875 +0400	commit (amend): Working version
+49b7a43c143604bf8c8cba3d108725e197ce789e fbf9d2fd6a313121007421aa1455d8973b9c9358 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758899872 +0400	commit (amend): Working version
+fbf9d2fd6a313121007421aa1455d8973b9c9358 c7b9a1145e6157b8d22fb5ad4693a6f35d3fa701 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758900749 +0400	commit (amend): Working version
+c7b9a1145e6157b8d22fb5ad4693a6f35d3fa701 489e048e3381ac91d4f1dc5cfd1ebe5cd40e84c4 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758900934 +0400	commit (amend): Working version
+489e048e3381ac91d4f1dc5cfd1ebe5cd40e84c4 7a45504ced3c30140db09b19c6b402d95005adf1 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758904122 +0400	commit: Logging improved
+7a45504ced3c30140db09b19c6b402d95005adf1 3344b9a17af49b3a5b99e26be4ba8a1076d0cef0 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758904838 +0400	commit: sad
+3344b9a17af49b3a5b99e26be4ba8a1076d0cef0 c1896d965b6928c41baad432ca24bb19851091c2 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758904946 +0400	commit (amend): sad
+c1896d965b6928c41baad432ca24bb19851091c2 f2738524c26a6dbaa4a2ad252319d3b5eed1d4cb Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758904964 +0400	commit (amend): sad
+f2738524c26a6dbaa4a2ad252319d3b5eed1d4cb 7834c21d08962c76f0e46e94b78dc6a0ba93d743 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758905003 +0400	rebase (finish): refs/heads/master onto e12dbdbb1c352689da426b098533cbf79599c8ec
+7834c21d08962c76f0e46e94b78dc6a0ba93d743 d3f943feba6bc0c85cddad652181a61c062ff219 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758906653 +0400	commit: foo
+d3f943feba6bc0c85cddad652181a61c062ff219 141cd53368197b34c6d47d4c8f173941508ce024 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1758906680 +0400	rebase (finish): refs/heads/master onto e12dbdbb1c352689da426b098533cbf79599c8ec
+141cd53368197b34c6d47d4c8f173941508ce024 bb902df52277815c605e473300db560da38dddde Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759150277 +0400	commit: Message lib improved
+bb902df52277815c605e473300db560da38dddde 2928c1282c6f4d9063c5c92e4f83042f1d63f97f Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759154468 +0400	commit: Actions handling for both client and server
+2928c1282c6f4d9063c5c92e4f83042f1d63f97f 2fe30d7a667b866abc2c4d2d4b1af82eed051ecf Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759154538 +0400	commit (amend): Actions handling for both client and server
+2fe30d7a667b866abc2c4d2d4b1af82eed051ecf 0e2184d92a9d19b354fe5aeaa63cfd19754ee383 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759164910 +0400	commit: Code clearance
+0e2184d92a9d19b354fe5aeaa63cfd19754ee383 c1eccb5ac0665fc2920646f70651d214510d05ef Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759165774 +0400	commit (amend): Code clearance
+c1eccb5ac0665fc2920646f70651d214510d05ef 03aa615a19372d2ec6e1187d0e020e333ffdb243 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759312678 +0400	commit: Bugfix
+03aa615a19372d2ec6e1187d0e020e333ffdb243 ab973e59a7be652e2814357c690dbc3d1093a463 Evgeny Neustroev <NeustroevEV1@transport.mos.ru> 1759314234 +0400	commit: Test improved
